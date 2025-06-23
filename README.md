@@ -9,20 +9,20 @@ This repository contains the R scripts, data, and output visualizations for a da
 - Visualize distributions, correlations, and outliers.
 - Apply basic predictive modeling using statistical methods.
 
-## 🧪 Tools & Technologies
+## Tools & Technologies
 
 - **Language**: R
 - **Libraries**: `ggplot2`, `dplyr`, `tidyr`, `caret`, `corrplot`, `readr`, `e1071`, etc.
 - **Environment**: RStudio / Git Bash
 
-## 📈 Key Methods
+## Key Methods
 
 - Data preprocessing and cleaning
 - Descriptive statistics and correlation analysis
 - Visualization of distributions and feature importance
 - Predictive modeling (e.g., logistic regression, SVM)
 
-## 🔍 Dataset
+## Dataset
 
 The dataset used for this project contains health indicators such as:
 
